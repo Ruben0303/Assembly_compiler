@@ -4,7 +4,7 @@ Formats
 
 F1:
 OPCODE SRC1 SRC2 DEST
-Available instruction
+Available instructions
 	ADD
 	SUB
 	XOR
