@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/run.exe.dir/test_run/TEST.cpp.o CMakeFiles/run.exe.dir/lib/asm_reader.cpp.o -o run.exe 
